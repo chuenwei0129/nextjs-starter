@@ -1,0 +1,8 @@
+# https://chat.deepseek.com/a/chat/s/1cc8375b-dfd0-40d3-b7f2-42b27c53119c
+
+allowBuilds:
+  sharp: true
+  unrs-resolver: true
+ignoredBuiltDependencies:
+  - sharp
+  - unrs-resolver
